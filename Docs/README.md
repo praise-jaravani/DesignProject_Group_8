@@ -45,7 +45,3 @@ We welcome contributions from the community. If you have improvements or bug fix
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
----
-
-For more detailed information about the design, integration, and testing of the micro-mouse system, refer to our final design report available in this repository.
