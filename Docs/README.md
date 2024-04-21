@@ -41,7 +41,3 @@ The diagram below illustrates the context diagram of the micro-mouse system, sho
 ## Contributing
 
 We welcome contributions from the community. If you have improvements or bug fixes, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
