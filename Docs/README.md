@@ -26,7 +26,7 @@ Although this system is specifically designed for the micro-mouse maze-solving c
 
 Figure 1 below illustrates the context diagram of the micro-mouse system, showcasing its interaction with the maze, environmental elements, and obstructions.
 
-![Context Diagram](Link_to_Context_Diagram_Image)
+![Context Diagram](Resources/context_diagram.jpg)
 
 ## Getting Started
 
