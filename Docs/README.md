@@ -4,7 +4,7 @@ This repository focuses on the development of a micro-mouse, a robotic device de
 
 This project aims to build a micro-mouse that can learn and adapt its route through a maze with each attempt, powered by a self-sustaining power supply. This repo details a system designed, tested, documented, and implemented by our team.
 
-![Context Diagram](../Resources/micromouse_inspo.jpg)
+![Mircomouse Inspiration](../Resources/micromouse_inspo_new.jpg)
 
 ## System Overview
 
