@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "My_symbol_lib")(type "KiCad")(uri "//wsl.localhost/Arch/home/praise/components/My_lib/My_symbol_lib_dir/My_symbol_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "My_new_symbol_lib")(type "KiCad")(uri "//wsl.localhost/Arch/home/praise/components/My_lib/My_symbol_lib_dir/My_symbol_lib.kicad_sym")(options "")(descr ""))
+)
