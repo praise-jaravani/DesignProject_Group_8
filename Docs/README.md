@@ -4,9 +4,7 @@ This repository focuses on the development of a micro-mouse, a robotic device de
 
 This project aims to build a micro-mouse that can learn and adapt its route through a maze with each attempt, powered by a self-sustaining power supply. This repo details a system designed, tested, documented, and implemented by our team.
 
-The specific challenge addressed here is the design of the sensor module essential for object detection and effective navigation in the maze. Moreover, we focus on ensuring that these new subsystems integrate seamlessly with the existing motherboard and processor components.
-
-Although this system is specifically designed for the micro-mouse maze-solving context, the principles applied in the sensor and power modules could potentially be adapted to other robotic applications that require compact and efficient design solutions.
+![Context Diagram](../Resources/micromouse_inspo.jpg)
 
 ## System Overview
 
@@ -24,7 +22,7 @@ Although this system is specifically designed for the micro-mouse maze-solving c
 
 ### Environment and Interaction
 
-Figure 1 below illustrates the context diagram of the micro-mouse system, showcasing its interaction with the maze, environmental elements, and obstructions.
+The diagram below illustrates the context diagram of the micro-mouse system, showcasing its interaction with the maze, environmental elements, and obstructions.
 
 ![Context Diagram](../Resources/context_diagram.jpg)
 
